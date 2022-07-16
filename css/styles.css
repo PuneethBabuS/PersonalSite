@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Taviraj', serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  padding-top: 60px;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Sanchez', serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Sanchez', serif;
+  color: #11999E;
+}
+
+a {
+  margin: auto 30px;
+  color: #11999E;
+  font-family: 'Taviraj', serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+hr {
+  margin: 80px auto;
+  width: 3%;
+  color: grey;
+  border-style: dotted none none;
+  border-width: 5px;
+}
+
+p {
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #E4E9E5;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+  margin: 100px 0 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin-bottom: 0;
+  padding: 30px;
+}
+
+.bottomCloud {
+  position: absolute;
+  left: 230px;
+}
+
+.topCloud {
+  position: absolute;
+  right: 230px;
+  top: 50px;
+}
+
+.desc {
+  width: 25%;
+  margin: auto;
+}
+
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.data-img {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.skill-row {
+  text-align: left;
+  margin: 100px auto 100px auto;
+  width: 50%;
+}
+
+.h3pad {
+  margin: 50px auto;
+}
+
+.contact-me {
+  width: 50%;
+  margin: auto;
+}
+
+.btn {
+  margin: 80px;
+  background: #3498db;
+  border-radius: 10px;
+  font-family: 'Taviraj', serif;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.cm {
+  margin: 40px;
+}
+
+.last {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+.leg:hover {
+  color: powderblue;
+}
